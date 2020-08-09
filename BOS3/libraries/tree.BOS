@@ -1,0 +1,32 @@
+Folder PATH listing for volume LUCAS
+Volume serial number is 000000C0 2E03:AEFC
+G:.
+\---libraries
+    |   call.bat
+    |   boot.cmd
+    |   dir.bat
+    |   support_color.exe
+    |   filelist.BOS
+    |   tree.BOS
+    |   
+    +---acmdRender
+    |   +---bos3
+    |   |   |   acmd.bef
+    |   |   |   
+    |   |   \---acsm3
+    |   +---Render
+    |   \---vex
+    |           nermc.bew
+    |           vexinstant.vex
+    |           void.bew
+    |           
+    \---ZLib
+        +---_32039
+        |       emc_5.sel
+        |       emc_5.vmn
+        |       emc_5.vmna
+        |       
+        \---_CA500
+                bosdemdoiui.B3C
+                databyte.B3C
+                

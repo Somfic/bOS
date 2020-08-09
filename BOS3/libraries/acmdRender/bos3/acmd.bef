@@ -1,0 +1,275 @@
+ACMD.5059
+5050
+3040
+1049
+<BitGraphicsDriver>
+c833c027579e0c8a78f85f85a308855ef2a2a5e176a942093b1315d83218b3d1
+<BOS3Byte>
+d916c9371c1c66ebc4e3537aa86c6e4e
+<GraphicsByte>
+18f75e22909b68e46fe0fe80eb3978bf1e574730
+
+//BOSGui Protocol
+BOS <010>
+BitGraphics.{101}
+Bit.ListDataFile
+Bit.NewDataFile <type.temp> <name.ascme40_t> <ext.sel>
+Bit.InputDataFile <name.ascme40_t> <dat.102933452790-23234432>
+ByteGraphics.MergeData.Bit.Dat.ascme
+
+\
+ \
+  \
+   SetProtocol.true
+
+//BOSGui Protocol.Clone
+BOS <010>
+BitGraphics.{101}
+Bit.ListDataFile
+Bit.NewDataFile <type.temp> <name.ascme40_t> <ext.sel>
+Bit.InputDataFile <name.ascme40_t> <dat.102933452790-23234432>
+ByteGraphics.MergeData.Bit.Dat.ascme
+
+\
+ \
+  \
+   SetProtocol.true
+//BOSGui Protocol.Clone
+BOS <010>
+BitGraphics.{101}
+Bit.ListDataFile
+Bit.NewDataFile <type.temp> <name.ascme40_t> <ext.sel>
+Bit.InputDataFile <name.ascme40_t> <dat.102933452790-23234432>
+ByteGraphics.MergeData.Bit.Dat.ascme
+
+\
+ \
+  \
+   SetProtocol.true
+
+
+//BOSGui Protocol.Clone
+BOS <010>
+BitGraphics.{101}
+Bit.ListDataFile
+Bit.NewDataFile <type.temp> <name.ascme40_t> <ext.sel>
+Bit.InputDataFile <name.ascme40_t> <dat.102933452790-23234432>
+ByteGraphics.MergeData.Bit.Dat.ascme
+
+\
+ \
+  \
+   SetProtocol.true
+
+
+//BOSGui Protocol.Clone
+BOS <010>
+BitGraphics.{101}
+Bit.ListDataFile
+Bit.NewDataFile <type.temp> <name.ascme40_t> <ext.sel>
+Bit.InputDataFile <name.ascme40_t> <dat.102933452790-23234432>
+ByteGraphics.MergeData.Bit.Dat.ascme
+
+\
+ \
+  \
+   SetProtocol.true
+
+
+//BOSGui Protocol.Clone
+BOS <010>
+BitGraphics.{101}
+Bit.ListDataFile
+Bit.NewDataFile <type.temp> <name.ascme40_t> <ext.sel>
+Bit.InputDataFile <name.ascme40_t> <dat.102933452790-23234432>
+ByteGraphics.MergeData.Bit.Dat.ascme
+
+\
+ \
+  \
+   SetProtocol.true
+
+
+//BOSGui Protocol.Clone
+BOS <010>
+BitGraphics.{101}
+Bit.ListDataFile
+Bit.NewDataFile <type.temp> <name.ascme40_t> <ext.sel>
+Bit.InputDataFile <name.ascme40_t> <dat.102933452790-23234432>
+ByteGraphics.MergeData.Bit.Dat.ascme
+
+\
+ \
+  \
+   SetProtocol.true
+
+
+//BOSGui Protocol.Clone
+BOS <010>
+BitGraphics.{101}
+Bit.ListDataFile
+Bit.NewDataFile <type.temp> <name.ascme40_t> <ext.sel>
+Bit.InputDataFile <name.ascme40_t> <dat.102933452790-23234432>
+ByteGraphics.MergeData.Bit.Dat.ascme
+
+\
+ \
+  \
+   SetProtocol.true
+
+
+//BOSGui Protocol.Clone
+BOS <010>
+BitGraphics.{101}
+Bit.ListDataFile
+Bit.NewDataFile <type.temp> <name.ascme40_t> <ext.sel>
+Bit.InputDataFile <name.ascme40_t> <dat.102933452790-23234432>
+ByteGraphics.MergeData.Bit.Dat.ascme
+
+\
+ \
+  \
+   SetProtocol.true
+
+
+//BOSGui Protocol.Clone
+BOS <010>
+BitGraphics.{101}
+Bit.ListDataFile
+Bit.NewDataFile <type.temp> <name.ascme40_t> <ext.sel>
+Bit.InputDataFile <name.ascme40_t> <dat.102933452790-23234432>
+ByteGraphics.MergeData.Bit.Dat.ascme
+
+\
+ \
+  \
+   SetProtocol.true
+
+
+//BOSGui Protocol.Clone
+BOS <010>
+BitGraphics.{101}
+Bit.ListDataFile
+Bit.NewDataFile <type.temp> <name.ascme40_t> <ext.sel>
+Bit.InputDataFile <name.ascme40_t> <dat.102933452790-23234432>
+ByteGraphics.MergeData.Bit.Dat.ascme
+
+\
+ \
+  \
+   SetProtocol.true
+
+
+//BOSGui Protocol.Clone
+BOS <010>
+BitGraphics.{101}
+Bit.ListDataFile
+Bit.NewDataFile <type.temp> <name.ascme40_t> <ext.sel>
+Bit.InputDataFile <name.ascme40_t> <dat.102933452790-23234432>
+ByteGraphics.MergeData.Bit.Dat.ascme
+
+\
+ \
+  \
+   SetProtocol.true
+
+
+//BOSGui Protocol.Clone
+BOS <010>
+BitGraphics.{101}
+Bit.ListDataFile
+Bit.NewDataFile <type.temp> <name.ascme40_t> <ext.sel>
+Bit.InputDataFile <name.ascme40_t> <dat.102933452790-23234432>
+ByteGraphics.MergeData.Bit.Dat.ascme
+
+\
+ \
+  \
+   SetProtocol.true
+
+
+//BOSGui Protocol.Clone
+BOS <010>
+BitGraphics.{101}
+Bit.ListDataFile
+Bit.NewDataFile <type.temp> <name.ascme40_t> <ext.sel>
+Bit.InputDataFile <name.ascme40_t> <dat.102933452790-23234432>
+ByteGraphics.MergeData.Bit.Dat.ascme
+
+\
+ \
+  \
+   SetProtocol.true
+
+
+//BOSGui Protocol.Clone
+BOS <010>
+BitGraphics.{101}
+Bit.ListDataFile
+Bit.NewDataFile <type.temp> <name.ascme40_t> <ext.sel>
+Bit.InputDataFile <name.ascme40_t> <dat.102933452790-23234432>
+ByteGraphics.MergeData.Bit.Dat.ascme
+
+\
+ \
+  \
+   SetProtocol.true
+
+
+//BOSGui Protocol.Clone
+BOS <010>
+BitGraphics.{101}
+Bit.ListDataFile
+Bit.NewDataFile <type.temp> <name.ascme40_t> <ext.sel>
+Bit.InputDataFile <name.ascme40_t> <dat.102933452790-23234432>
+ByteGraphics.MergeData.Bit.Dat.ascme
+
+\
+ \
+  \
+   SetProtocol.true
+
+
+//BOSGui Protocol.Clone
+BOS <010>
+BitGraphics.{101}
+Bit.ListDataFile
+Bit.NewDataFile <type.temp> <name.ascme40_t> <ext.sel>
+Bit.InputDataFile <name.ascme40_t> <dat.102933452790-23234432>
+ByteGraphics.MergeData.Bit.Dat.ascme
+
+\
+ \
+  \
+   SetProtocol.true
+
+
+//BOSGui Protocol.Clone
+BOS <010>
+BitGraphics.{101}
+Bit.ListDataFile
+Bit.NewDataFile <type.temp> <name.ascme40_t> <ext.sel>
+Bit.InputDataFile <name.ascme40_t> <dat.102933452790-23234432>
+ByteGraphics.MergeData.Bit.Dat.ascme
+
+\
+ \
+  \
+   SetProtocol.true
+
+
+//BOSGui Protocol.Clone
+BOS <010>
+BitGraphics.{101}
+Bit.ListDataFile
+Bit.NewDataFile <type.temp> <name.ascme40_t> <ext.sel>
+Bit.InputDataFile <name.ascme40_t> <dat.102933452790-23234432>
+ByteGraphics.MergeData.Bit.Dat.ascme
+
+\
+ \
+  \
+   SetProtocol.true
+
+
+

@@ -1,0 +1,5 @@
+(VEMR)
+<<HANDLER>>
+Handler.Set
+Set.(BOSExtensionMonitor)
+GOTO <4040>
